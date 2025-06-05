@@ -1,5 +1,5 @@
 Main projects:
-- [Supa](https://github.com/mitkury/supa) - an open alternative to ChatGPT
+- [Supa](https://github.com/supaorg/supa) - an open alternative to ChatGPT
 - [AIWrapper](https://github.com/mitkury/aiwrapper) - AI wrapper for JS/TS
 - [AIModels](https://github.com/mitkury/aimodels) - a collection of AI model specifications
 - [RepTree](https://github.com/mitkury/reptree) - a tree data structure using CRDTs for seamless replication between peers
